@@ -1,0 +1,25 @@
+nav {
+	display: inline;
+	color: red;
+}
+
+p {
+
+}
+
+.jumbotron {
+	font-family: 'Pangolin', cursive;
+	text-align: center;
+	background-image: url(pics/jumbotron.jpg);
+	margin: 20px;
+	width: auto;
+	height: auto;
+}
+
+.content {
+	font-family: 'Pangolin', cursive;
+}
+
+#nav {
+	font-family: 'Pangolin', cursive;
+}
